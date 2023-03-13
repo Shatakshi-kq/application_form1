@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="first_n">15sp</dimen>
+    <dimen name="last_n">15sp</dimen>
+    <dimen name="mobile_n">15sp</dimen>
+    <dimen name="al_mobile">15sp</dimen>
+    <dimen name="email_n">15sp</dimen>
+    <dimen name="male_b">15sp</dimen>
+    <dimen name="female_b">15sp</dimen>
+    <dimen name="tr_b">15sp</dimen>
+    <dimen name="gender_n">15sp</dimen>
+    <dimen name="hobbies_n">15sp</dimen>
+    <dimen name="check">15sp</dimen>
+</resources>
